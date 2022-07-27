@@ -8,8 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Drize1x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Drize1x&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drize1x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://cdn.discordapp.com/emojis/961005750841409586.gif?size=44&quality=lossless)
-<h2 align="center">
 ![](https://discord.c99.nl/widget/theme-1/989506305653895178.png)
 
 
